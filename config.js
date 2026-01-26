@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I love you so much and I am so lucky to have you! 🎉💝💖💝💓",
         message: "I can't wait for our date",
-        emojis: "🥰💖🤗💝💋❤️💕💜🖤💛🩷🦖"  // These will bounce around
+        emojis: "🥰💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website

@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I love you so much and I am so lucky to have you! 🎉💝💖💝💓",
+        title: "I love you so much and I am so lucky to have you!",
         message: "I can't wait for our wonderful date!",
-        emojis: "🥰💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "❤️🕹️🍹🍖🍖🍾😉❤️"  // These will bounce around
     },
 
     // Color scheme for the website

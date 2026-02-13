@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Tomiris",
+    valentineName: "Tomiris, my love",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: false,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.dropbox.com/scl/fi/6vr6d9oupcsgu21lq6ouv/The_Police_-_Every_Breath_You_Take_47961251.mp3?rlkey=16onkxis9i9amphay3anpc515&st=0mxaqxe4&dl=0", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dqaxlcrua/video/upload/v1771008814/The_Police_-_Every_Breath_You_Take_47961251_nmtuam.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)

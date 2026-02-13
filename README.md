@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
 
-A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2025! 💝
+A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
 
 🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
@@ -86,7 +86,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Tomiris"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -99,9 +99,9 @@ floatingEmojis: {
 questions: {
     first: {
         text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        yesBtn: "Yaaa",                             // Yes button text
+        noBtn: "Zhok",                               // No button text
+        secretAnswer: "I don't like you, I love you! zhanym ❤️"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -110,8 +110,8 @@ questions: {
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        yesBtn: "Yaaaaa!",                            // Yes button text
+        noBtn: "Zhok"                                // No button text
     }
 }
 
@@ -150,7 +150,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://www.dropbox.com/scl/fi/6vr6d9oupcsgu21lq6ouv/The_Police_-_Every_Breath_You_Take_47961251.mp3?rlkey=16onkxis9i9amphay3anpc515&st=0mxaqxe4&dl=0", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
